@@ -5,7 +5,6 @@ import (
 )
 
 type data struct {
-	name string
 }
 
 func main() {

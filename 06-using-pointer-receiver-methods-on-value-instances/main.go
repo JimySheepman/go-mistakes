@@ -18,9 +18,9 @@ func main() {
 	d1 := data{"one"}
 	d1.print()
 
-	var in printer = &data{"two"}
-	in.print()
+	// var in printer = data{"two"}
+	// in.print()
 
-	m := map[string]*data{"x": {"three"}}
-	m["x"].print()
+	// m := map[string]data{"x": {"three"}}
+	// m["x"].print()
 }
